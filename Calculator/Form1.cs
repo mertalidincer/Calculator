@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace Calculator
 {
+    // yanlizca bir yorum satiri eklendi.
     public partial class Form1 : Form
     {
         double value, num1, num2;
